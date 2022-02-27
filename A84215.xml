@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of the proceedings of the Cavaleers at Cicester containing a true declaration, of their bloody cruelties, the number of men that were slain on both sides, and what prisoners were taken and carried to Oxford. Also the copie of the oath or protestation which was rendred unto them at Oxford; with many other remarkable passages concerning the said businesse. As also the votes of the parliament, and what is agreed upon in the House of Commons. Concerning the late propositions sent by his Majestie to both houses, for a treaty of peace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84215</idno>
+            <idno type="STC">Wing E3695A</idno>
+            <idno type="STC">ESTC R229828</idno>
+            <idno type="EEBO-CITATION">99895704</idno>
+            <idno type="PROQUEST">99895704</idno>
+            <idno type="VID">153203</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153203)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2354:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of the proceedings of the Cavaleers at Cicester containing a true declaration, of their bloody cruelties, the number of men that were slain on both sides, and what prisoners were taken and carried to Oxford. Also the copie of the oath or protestation which was rendred unto them at Oxford; with many other remarkable passages concerning the said businesse. As also the votes of the parliament, and what is agreed upon in the House of Commons. Concerning the late propositions sent by his Majestie to both houses, for a treaty of peace.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Damm, dwelling in the middle-Rowe in Holborn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chichester (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153203:1" rendition="simple:additions"/>
+            <p>AN EXACT RELATION Of the Proceedings of the Cavaleers AT CICESTER; Containing a true Declaration, of their bloody Cruelties, the number of men that were ſlain on both ſides, and what Priſoners were taken and carried to <hi>Oxford.</hi>
+            </p>
+            <p>Alſo the Copie of the Oath or Proteſtation which was tendred unto them at <hi>Oxford;</hi> With many other remarkable Paſſages con<g ref="char:EOLhyphen"/>cerning the ſaid buſineſſe.</p>
+            <p>As alſo the Votes of the Parliament, and what is agreed upon in the Houſe of Com<g ref="char:EOLhyphen"/>mons. Concerning the late Propoſitions ſent by His Majeſtie to both Houſes, for a Treaty of <hi>Peace.</hi>
+            </p>
+            <p>
+               <hi>Febr.</hi> 14. LONDON, Printed for <hi>Iohn Damm,</hi> dwelling in the middle-Rowe in <hi>Holborn.</hi> 1643,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153203:2"/>
+            <pb facs="tcp:153203:2"/>
+            <head>An Exact Relation of the Proceedings of the CAVALEERS at <hi>CICESTER.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">P</seg>Rince <hi>Ruperts</hi> Scouts, upon the tenth of this inſtant February, approached near the Town of Ciceſter in the County of Gloceſter, and newes was brought to the Town, that Prince <hi>Rupert</hi> himſelf, Prince <hi>Mawrice,</hi> the Earl of Carnarvon, the Earl of Northampton, the Lord Digby, and divers other great Commanders, with about ſeven thou<g ref="char:EOLhyphen"/>ſand horſe and foot, were marching towards Ciceſter with an intent to make an attempt againſt it, which Town at that time, was not in ſo good a poſture of defence as for<g ref="char:EOLhyphen"/>merly it had been, for that part of their forces were about Malmesbury and other places, which was occaſioned by a late aſſault which was made againſt Shudly-Caſtle by the Glouceſterſhire forces, where they took the Lord <hi>Shan<g ref="char:EOLhyphen"/>doys</hi> and three hundred men priſoners with their Arms and Ammunition, ſo that there was in Ciceſter at this time, but eleven hundred men, and five ſmall Peeces of Ordnance. This day there was but little done, only three or foure of Prince <hi>Ruperts</hi> Scouts were taken Priſoners and caried in<g ref="char:EOLhyphen"/>to the Town, but the next day Prince <hi>Rupert</hi> having brought all his forces together before the Town, began to make an aſſault againſt it, whereupon the Townſmen per<g ref="char:EOLhyphen"/>ceiving the great ſtrength that was againſt them, preſently
+<pb facs="tcp:153203:3"/>ſent to Glouceſter, deſiring ſome ayd and aſſiſtance from thence, and in the mean time, they reſolved to oppoſe the Enemies forces, which was valiantly performed by them, inſomuch that the Enemy could make no entrance all that day, although they played very fiercely againſt the Town with their Ordnance, and at laſt, whileſt the Ordnance were playing againſt one end of the Town, Prince RV<g ref="char:EOLhyphen"/>PERT with a party of Horſe, advanced to the other end, and made an aſſault againſt it, ſhooting Granadoes to ſet on fire Barnes and thatched houſes, which were at that end, and fired ſome of them, amongſt which was a Stack of Hay, the ſmoke of which fire, by reaſon of the Winde carrying it into the Town, did ſo much annoy the inhabitants of the Town, that they could hardly ſee one another, and knew not which way to turn them, and and thereupon were ſuddainly ſurpriſed by the Cavaleers, who at their firſt entrance laid about them in that inhu<g ref="char:EOLhyphen"/>main manner, it would grieve the hardeſt heart to think of, for they ſpared neither woman nor child that they met withall, and moſt cruelly murthered a godly Divine and his whole Family, and after quarter was granted, thoſe men which eſcaped with their lives, were miſerably tor<g ref="char:EOLhyphen"/>tured, and uſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with worſe cruelty then death, for they were ſtript naked and dragged up and down the ſtreet, ter<g ref="char:EOLhyphen"/>rifying them with moſt heavie oathes, and curſes, holding their naked ſwords and Piſtols to their breaſts, and at laſt drave them i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to the Church, where they were kept in that naked and miſerable condition, four and twenty houres to<g ref="char:EOLhyphen"/>gether, without eyther bread or water, there being (as it is reported) about a thouſand of them, which cruelties are hardly to be paraleld by any ſtories in our Engliſh Chronicles.</p>
+            <pb facs="tcp:153203:3"/>
+            <p> Before I paſſe any further, I ſhould relate the number of ſuch perſons as were ſlain on both ſides, but in this par<g ref="char:EOLhyphen"/>ticuler I ſhall crave favour to be excuſed, if I do not ſo exactly relate the very certainty thereof, it being a thing of more then ordinary difficulty, to give a true definition thereof, but herein I muſt referre my ſelf to the generall brute of the people, which in all probability doth not much vary from the truth, who ſay that before the Cava<g ref="char:EOLhyphen"/>leers en<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red the Town, the inhabitants loſt not above two hundred men, but the enemy loſt about fifteen hundred.</p>
+            <p>The priſoners which were taken by the Cavaleers, were pinioned and coupled together, and driven like Cattle to Oxford, without ſhoes or ſtockins, or hats to keep their bare heads from the weather, many of them (as it is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ported) being glad to make hard ſhift for a peece of Mat or Straw to tye about them, to cover their nakedneſſe, and and at their comming near unto <hi>Oxford,</hi> newes being brought to the town of their neer approach, a great num<g ref="char:EOLhyphen"/>ber of people came out to meet them, the priſoners being tyed together with Cords and Match, though moſt of them were of very good worth and quality, and two of them Mi<g ref="char:EOLhyphen"/>niſters, which were in the like manner drawn through the dirt and mire, and ſo were all caried into the Town and im<g ref="char:EOLhyphen"/>priſoned in two ſeverall Churches, and kept there all night, not being allowed either fire, bread, or water: whereupon a poor woman perceiving the miſerable condition of theſe poor diſtreſſed priſoners, and hearing their lamentable complaint and cry for water, went to fetch them ſome, but being ſeen ſhe was beaten by a Cavaleer; yet the poor woman being inwardly moved with theſe mens miſeries, ſaid ſhe would fetch them water, though ſhe were han<g ref="char:EOLhyphen"/>ged for it. Some of them that were taken at Ciceſter,
+<pb facs="tcp:153203:4"/>and thus carried to Oxford, by reaſon of their cruell uſage, and the wounds they had received, not having any meanes to recover them, nor any Chirurgeon to come at them, are ſince dead.</p>
+            <p>After they had been thus impriſoned all night in the Churches, the next day they had an Oath tendred unto them, which was as followeth, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <head>The Oath adminiſtred unto all thoſe who were taken Priſoners ly the Cavaleers at Chicheſter.</head>
+                        <p>I <hi>A.</hi> B. reſting fully aſſured of His Majeſties Princely truth and goodneſſe, do freely and from my heart, promiſe, vow, and proteſt, in the preſence of Almighty God, that I will, to the utmoſt of my power, and with the hazard of my life, maintain and defend the true Prote<g ref="char:EOLhyphen"/>ſtant Religion, eſtabliſhed in the Church of England, His Majeſties ſacred Perſon, his High<g ref="char:EOLhyphen"/>neſſe, and lawfull ſucceſſors, His Majeſties juſt power and priviledge, and the juſt power and priviledge of Parliament, againſt the Forces un<g ref="char:EOLhyphen"/>der the Conduct of the Earl of Eſſex, and againſt all other Forces whatſoever, contrary to His Majeſties command. I do beleeve that the rai<g ref="char:EOLhyphen"/>ſing and imploying of forces by His Majeſtie
+<pb facs="tcp:153203:4"/>for the purpoſes and cauſes before mentioned, to be moſt juſt and neceſſary, and I will do my utmoſt endeavour to procure and re-eſtabliſh the peace and the quiet of the Kingdome, and that herein all His Majeſties Subiects may fully enjoy their liberty and property according to the law of the land; and I will neither divulge or communicate any thing to the ſaid Earle of Eſſex his Officers, or to any other to hinder or prejudice the deſignes of His Maieſtie in the conduct and imployment of His army: and <hi>I</hi> do beleeve that the Subiects of England are not obliged by any act of State, Vote, Ordinance, or Declaration, made or to be made, either by the Kings Maieſty ſolely, or by the Lords and Com<g ref="char:EOLhyphen"/>mons ſingly, or joyntly, without his Maieſties expreſſe conſent (ſaving ſuch as have or ſhall be in execution, of or according to ſome known Law-cuſtome of the Realm, or Statute enacted by the King, or Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment:) and <hi>J</hi> do further proteſt and vow in the preſence of Almighty God, that <hi>I</hi> will not take or bear armes, but by expreſſe warrant of His Maieſtie, or by authority juſtly derived from His Majeſties immediate warrant.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:153203:5" rendition="simple:additions"/>
+            <p> A Great part of the buſineſſe in Parliament the laſt week, was concerning the propoſitions lately ſent from his Ma<g ref="char:EOLhyphen"/>jeſty to the Parliament concerning a treaty, &amp; perticulerly about a Ceſſation of Arms; and the Houſe of Commons conceving it unſafe and a matter of dangerous conſequence to the Kingdom, that there ſhould be a ceſſation of arms only during the treaty, after long debate of the buſineſſe (their being about 200 perſons in the Houſe) it being put to the Queſtion it was carried by the Major voices, that there ſhould be an utter disbanding of all forces, both by the King and Parl. which if his Maj. will gratiouſly be pleaſed to agree unto, the Parl. will make choice of fit and able perſons for the managing of the treaty with thoſe which ſhall be choſen by his Majeſty, and in the mean time, untill things are further agreed upon, they wilbe rea<g ref="char:EOLhyphen"/>dy to propound ſuch a way to give his Majeſty ſatisfaction concrening the propoſitions made by his Maieſty, touching his Forts, Caſtles, and Navy, as ſhalbe reſonable, and with ſafety to the Kingdom.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
